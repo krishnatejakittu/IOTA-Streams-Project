@@ -5,7 +5,7 @@ npm install @iota/streams/node
 
 npm install @ethersphere/bee-js
 
-**Output from running main.js should be like below **
+**Output from running main.js should be like below**
 
 Step 1
 Author: Create author and new channel
