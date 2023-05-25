@@ -1,7 +1,10 @@
 # IOTA-Streams-Project
 **Installation steps:**
-npm install @iota/streams/node 
+
+npm install @iota/streams/node
+
 npm install @ethersphere/bee-js
+
 **Output from running main.js should be like below **
 
 Step 1
